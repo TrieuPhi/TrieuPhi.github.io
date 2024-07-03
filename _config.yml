@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 🌱 Learn Anything's Garden
-email: support@thinhvu.com
-author: LEarn Anything
+title: 🤖 Blog AI Machine 
+email: dtptrieuhidtp@gmail.com 
+author: Dai Trieu Phi 
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -49,7 +49,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://learn-anything.online" # the base hostname & protocol for your site, e.g. https://thinh-vu.github.io
-favicon: "" # the favicon for your site
+favicon: "🤖" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -66,7 +66,7 @@ yat:
 content_width: "1200px"
 
 # Google analytics - GA4
-google_analytics: G-T55MBNEVET
+# google_analytics: G-T55MBNEVET
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
